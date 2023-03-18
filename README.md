@@ -25,6 +25,8 @@ Link del proyecto al final ⬇
 
 ---
 
-![Juego del Ahorcado(10)](aqui va la imagen)
+![Juego del Ahorcado(10)](![image](https://user-images.githubusercontent.com/107359514/226143688-883a9d94-b52d-4022-bcc4-a064e0d02210.png)
+![image](https://user-images.githubusercontent.com/107359514/226143711-8e591424-30c6-4dc2-9369-bacf63c05009.png)
+)
 
-Link: 
+Link: https://juanjoseacostarico.github.io/Juego-Ahorcado/index.html
